@@ -6,7 +6,7 @@
 	<artifactId>ShoppingCartListener</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ShoppingCartListener</name>
-	<description>Shopping Car Queue Listener</description>
+	<description>Shopping Cart Queue Listener</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
